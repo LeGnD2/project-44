@@ -1,4 +1,4 @@
-<?php require "includes/header.php" ?>
+<?php require "../includes/header.php" ?>
 <main>
     <form action="/login-handler" class="account-form" method="post">
         <h2>Log in</h2>
