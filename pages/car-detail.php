@@ -41,9 +41,8 @@
                 </div>
                 <div class="call-to-action">
                     <div class="row"><span class="font-weight-bold">€80,00</span> / dag</div>
-                    <div class="row"><a href="" class="button-primary">Huur nu</a></div>
+                    <div class="row"><a href="/huur-nu" class="button-primary">Huur nu</a></div>
                 </div>
-
             </div>
         </div>
     </div>
