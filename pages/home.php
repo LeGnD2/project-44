@@ -1,4 +1,4 @@
-<?php require "../includes/header.php" ?>
+<?php require "includes/header.php" ?>
     <header>
         <div class="advertorials">
             <div class="advertorial">

@@ -1,4 +1,4 @@
-<?php require "../includes/header.php" ?>
+<?php require "includes/header.php" ?>
 
 <?php
 //TODO: Implementeer dat de pagina de juiste auto laat zien op basis van de query paramater 'name'
@@ -41,8 +41,9 @@
                 </div>
                 <div class="call-to-action">
                     <div class="row"><span class="font-weight-bold">€80,00</span> / dag</div>
-                    <div class="row"><a href="/huur-nu" class="button-primary">Huur nu</a></div>
+                    <div class="row"><a href="" class="button-primary">Huur nu</a></div>
                 </div>
+
             </div>
         </div>
     </div>

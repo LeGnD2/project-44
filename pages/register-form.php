@@ -1,4 +1,4 @@
-<?php require "../includes/header.php" ?>
+<?php require "includes/header.php" ?>
 <main>
     <form action="/register-handler" method="post" class="account-form">
         <h2>Maak een account aan</h2>

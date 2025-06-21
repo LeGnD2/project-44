@@ -1,3 +1,13 @@
+<?php
+session_start();
+// Bijvoorbeeld check:
+if (!isset($_SESSION['user'])) {
+    header('Location: /login');
+    exit;
+}
+?>
+
+
 <?php require "../includes/header.php" ?>
 <main>
     <form action="/register-handler" method="post" class="account-form">
